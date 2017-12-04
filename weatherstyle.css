@@ -1,0 +1,19 @@
+form{
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1{
+    padding-left: 10px;
+}
+.jumbotron{
+    color:grey;
+    text-align: center;
+}
+
+table{
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+}
